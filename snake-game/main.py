@@ -6,7 +6,7 @@ import time
 
 screen = Screen()
 screen.setup(width=600, height=600)
-screen.bcolor("black")
+screen.bgcolor("black")
 screen.title("The Snake Game")
 
 snake = Snake()
